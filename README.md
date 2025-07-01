@@ -4,7 +4,7 @@
 [![Backend: Spring Boot](https://img.shields.io/badge/backend-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Database: PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-**Frontend repo:** [pageport-fe](https://github.com/bejtoni/pageport-fe.git) 
+**Frontend repository:** [pageport-fe](https://github.com/bejtoni/pageport-fe.git) 
 
 **PagePort** is a web-based book shopping platform that allows users to explore, search, and purchase physical books. The system supports secure user authentication, shopping cart and wishlist management, and basic order tracking.
 
